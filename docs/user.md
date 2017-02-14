@@ -152,7 +152,7 @@ If your language is not available, follow this guidelines (E.g : add swedish lan
 
 Menus are defined using Hugo menus https://gohugo.io/extras/menus/
 
-You can translate menu entries by setting `identifier` that matches a translation key. By using this way, `name` will not be use at all.
+You can translate menu entries by setting `identifier` that matches a translation key. By using this way, `name` will not be used at all.
 
 ### Setting up default theme to Tranquilpeak
 
